@@ -1,5 +1,5 @@
 # budgetyApp
-Another curse project. Simple app to control your budget.
+Another course project. Simple app to control your budget.
 
 Pure Javascript, html5 and css3.
 
